@@ -23,6 +23,7 @@ export default function App() {
           To get started, edit src/App.js <br /> and save to reload.
         </Trans>
       </p>
+      <p>{t("variable", { what: "i18next", how: "great" })}</p>
       <p>{t("description.part2")}</p>
     </div>
   );

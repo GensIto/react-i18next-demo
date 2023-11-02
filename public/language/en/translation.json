@@ -3,5 +3,6 @@
   "description": {
     "part1": "To get started<1/>edit src/App.jsand save to reload.",
     "part2": "Switch language between english and german using buttons above."
-  }
+  },
+  "variable": "{{what}} is {{how}}"
 }
